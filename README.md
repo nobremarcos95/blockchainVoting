@@ -6,12 +6,14 @@ A electoral system build with blockchain technology, made in Python.
 To execute the program, you must have Python (with WxPython and FastECDSA libs) previously installed in your machine.
 
 1 - Install WxPython and FastECDSA using:
+	
 	pip install wxpython
 
 	pip install fastecdsa
 
 
 2 - Execute the main.py file using:
+
 	python main.py
 
 
